@@ -11,7 +11,7 @@ zsa
 ### Toto
 
 \
-Full control of private repositories
+Full **control** of private repositories
 
 * repo:statusAccess commit status
 * repo\_deploymentAccess deployment status
