@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Linux Essential Certification](README.md)
-* [Summary](SUMMARY.MD)
+* [Summary](SUMMARY.md)
 * [1.Linux community](1.linux\_community/README.md)
   * [1.1 Linux evolution](1.linux\_community/1.1-linux\_evolution.md)
   * [1.2 Open Source applications](1.linux\_community/1.2-open\_source\_applications.md)
