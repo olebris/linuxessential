@@ -1,6 +1,6 @@
 # Linux Essential Certification
 
-Website: <https://www.lpi.org/our-certifications/linux-essentials-overview>
+- Website: <https://www.lpi.org/our-certifications/linux-essentials-overview>
 
 ## Learning materials:
 
@@ -12,7 +12,7 @@ Website: <https://www.lpi.org/our-certifications/linux-essentials-overview>
 
 ## Not used but maybe useful ?
 
-  - theurbanpenguin: <https://www.youtube.com/watch?v=TILMEERsu60&list=PLtGnc4I6s8dssa8hF4yMTAa4BrSJCSwux>
+- theurbanpenguin: <https://www.youtube.com/watch?v=TILMEERsu60&list=PLtGnc4I6s8dssa8hF4yMTAa4BrSJCSwux>
 - Tests
   - <https://www.youtube.com/watch?v=iDQwRmGZWOE>
   - <https://www.youtube.com/watch?v=XWEt6jXt7Hk>
