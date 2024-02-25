@@ -1,4 +1,4 @@
-# Linux Essential Certification
+# Linux Professional Institute (LPI) - Linux Essential Certification 
 
 - [Website](https://www.lpi.org/our-certifications/linux-essentials-overview)
 
